@@ -27,9 +27,15 @@ h1{
 }
 
 .contenedor-principal{
-	min-height: 600px;
+	min-height: 100px;
 	display: flex;
 	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
+}
+
+.Logo{
+	height: 60px;
+	width: 60px;
+	margin-left: 20px;
 }
