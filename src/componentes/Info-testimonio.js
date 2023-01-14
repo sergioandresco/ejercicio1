@@ -33,6 +33,13 @@ export function Info(){
         cargo='Jugado profesional de Halo'
         testimonio='Esto es una prueba para el componente nuevo de React, de manerá dinamica, desde otro archivo llamó toda la info a mostrarse'
       />
+      <Testimonio 
+        nombre='LIZI GUTIERREZ'
+        pais='FRANCIA'
+        imagen='liz'
+        cargo='Diseñadora de modas'
+        testimonio='amante a los gatos, a las telas, a las agujas, al arroz con pollo, al pollo, enamorada de Lio Messi, campeones del mundo'
+      />
     </div>
     );
 }
